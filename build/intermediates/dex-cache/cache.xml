@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\StudioProjects\GeoQuiz\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d418d4969f8c464fba6aea902b92789c242d79c6">
+        <dex dex="C:\Users\admin\StudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d3e99abb69000f11dcb43e2e1eb9ce6cadccba53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\StudioProjects\GeoQuiz\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\admin\StudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_237291a2120326ceac8bf20d147df6da55412ab0\classes.dex" />
+    </item>
+
+</items>

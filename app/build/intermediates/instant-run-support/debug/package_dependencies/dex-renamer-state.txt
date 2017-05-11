@@ -1,0 +1,7 @@
+#Wed May 10 13:06:01 EET 2017
+base.0=C\:\\Users\\admin\\StudioProjects\\GeoQuiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bbd45279a4aa3045a6f2776341e0c0fb75a23de5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\admin\\StudioProjects\\GeoQuiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_8c87ef6b7aca19b9d99ff57c82ceb57bfc3c5935\\classes.dex
+base.1=C\:\\Users\\admin\\StudioProjects\\GeoQuiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_8c87ef6b7aca19b9d99ff57c82ceb57bfc3c5935
+file.0=C\:\\Users\\admin\\StudioProjects\\GeoQuiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bbd45279a4aa3045a6f2776341e0c0fb75a23de5\\classes.dex

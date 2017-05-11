@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\admin\.android\build-cache\e47a60dbb2aaa2e19cdb0fcaffc79b870f7a2fd2\output\assets"/></dataSet><dataSet config="main"><source path="C:\Users\admin\StudioProjects\GeoQuiz\app\src\main\assets"/><source path="C:\Users\admin\StudioProjects\GeoQuiz\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\admin\StudioProjects\GeoQuiz\app\src\debug\assets"/></dataSet></merger>
