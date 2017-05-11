@@ -7,7 +7,7 @@ package one.sable.android.geoquiz;
 class Question {
     private int mTextResId;
     private boolean mAnswerTrue;
-
+//constructor
     public Question(int textResId, boolean answerTrue) {
         mTextResId = textResId;
         mAnswerTrue = answerTrue;
