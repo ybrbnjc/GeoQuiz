@@ -2,22 +2,22 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\admin\StudioProjects\GeoQuiz\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="d418d4969f8c464fba6aea902b92789c242d79c6">
-        <dex dex="C:\Users\admin\StudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d3e99abb69000f11dcb43e2e1eb9ce6cadccba53\classes.dex" />
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\admin\StudioProjects\GeoQuiz\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_8c87ef6b7aca19b9d99ff57c82ceb57bfc3c5935.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\admin\StudioProjects\GeoQuiz\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\e47a60dbb2aaa2e19cdb0fcaffc79b870f7a2fd2\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="C:\Users\admin\StudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_237291a2120326ceac8bf20d147df6da55412ab0\classes.dex" />
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\admin\StudioProjects\GeoQuiz\app\build\intermediates\pre-dexed\debug\classes_bbd45279a4aa3045a6f2776341e0c0fb75a23de5.jar" />
     </item>
 
 </items>

@@ -467,10 +467,11 @@ containing a value of this type.
         public static final int basic=0x7f070006;
         public static final int chains=0x7f070007;
         public static final int false_button=0x7f07000b;
+        public static final int next_button=0x7f07000c;
         public static final int none=0x7f070008;
         public static final int packed=0x7f070003;
         public static final int parent=0x7f070000;
-        public static final int question_textview=0x7f070009;
+        public static final int question_text_view=0x7f070009;
         public static final int spread=0x7f070001;
         public static final int spread_inside=0x7f070004;
         public static final int true_button=0x7f07000a;
@@ -488,8 +489,13 @@ containing a value of this type.
         public static final int correct_toast=0x7f050001;
         public static final int false_button=0x7f050002;
         public static final int incorrect_toast=0x7f050003;
-        public static final int question_text=0x7f050004;
-        public static final int true_button=0x7f050005;
+        public static final int next_button=0x7f050004;
+        public static final int question_africa=0x7f050005;
+        public static final int question_americas=0x7f050006;
+        public static final int question_asia=0x7f050007;
+        public static final int question_mideast=0x7f050008;
+        public static final int question_oceans=0x7f050009;
+        public static final int true_button=0x7f05000a;
     }
     public static final class style {
         public static final int AppTheme=0x7f060000;

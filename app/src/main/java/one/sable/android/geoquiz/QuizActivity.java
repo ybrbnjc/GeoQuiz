@@ -31,7 +31,9 @@ public class QuizActivity extends Activity {
 
         mQuestionTextView = (TextView) findViewById(R.id.question_text_view);
         updateQuestion();
-        mQuestionTextView.setOnClickListener(new View.OnClickListener() {
+
+        mNextButton = (Button) findViewById(R.id.next_button);
+        mNextButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 mCurrentIndex = (mCurrentIndex + 1) % mQuestionBank.length;

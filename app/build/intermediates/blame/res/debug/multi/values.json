@@ -605,14 +605,7 @@
                     "endOffset": 9438
                 },
                 "from": {
-                    "file": "C:\\Users\\admin\\StudioProjects\\GeoQuiz\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 246,
-                        "endColumn": 50,
-                        "endOffset": 292
-                    }
+                    "file": "C:\\Users\\admin\\StudioProjects\\GeoQuiz\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -636,14 +629,7 @@
                     "endOffset": 9540
                 },
                 "from": {
-                    "file": "C:\\Users\\admin\\StudioProjects\\GeoQuiz\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 298,
-                        "endColumn": 54,
-                        "endOffset": 348
-                    }
+                    "file": "C:\\Users\\admin\\StudioProjects\\GeoQuiz\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -651,17 +637,17 @@
                     "startLine": 101,
                     "startColumn": 4,
                     "startOffset": 9545,
-                    "endColumn": 87,
-                    "endOffset": 9628
+                    "endColumn": 44,
+                    "endOffset": 9585
                 },
                 "from": {
                     "file": "C:\\Users\\admin\\StudioProjects\\GeoQuiz\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 63,
-                        "endColumn": 87,
-                        "endOffset": 146
+                        "startOffset": 655,
+                        "endColumn": 44,
+                        "endOffset": 695
                     }
                 }
             },
@@ -669,9 +655,104 @@
                 "to": {
                     "startLine": 102,
                     "startColumn": 4,
-                    "startOffset": 9633,
+                    "startOffset": 9590,
+                    "endColumn": 85,
+                    "endOffset": 9671
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\StudioProjects\\GeoQuiz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 85,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 9676,
+                    "endColumn": 100,
+                    "endOffset": 9772
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\StudioProjects\\GeoQuiz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 100,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 9777,
+                    "endColumn": 105,
+                    "endOffset": 9878
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\StudioProjects\\GeoQuiz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 454,
+                        "endColumn": 105,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 9883,
+                    "endColumn": 102,
+                    "endOffset": 9981
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\StudioProjects\\GeoQuiz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 102,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 9986,
+                    "endColumn": 96,
+                    "endOffset": 10078
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\StudioProjects\\GeoQuiz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endColumn": 96,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 10083,
                     "endColumn": 44,
-                    "endOffset": 9673
+                    "endOffset": 10123
                 },
                 "from": {
                     "file": "C:\\Users\\admin\\StudioProjects\\GeoQuiz\\app\\src\\main\\res\\values\\strings.xml"
@@ -679,12 +760,12 @@
             },
             {
                 "to": {
-                    "startLine": 103,
+                    "startLine": 108,
                     "startColumn": 4,
-                    "startOffset": 9678,
-                    "endLine": 105,
+                    "startOffset": 10128,
+                    "endLine": 110,
                     "endColumn": 12,
-                    "endOffset": 9771
+                    "endOffset": 10221
                 },
                 "from": {
                     "file": "C:\\Users\\admin\\StudioProjects\\GeoQuiz\\app\\src\\main\\res\\values\\styles.xml"
